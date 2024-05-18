@@ -1,4 +1,5 @@
 # Automobile-Insurance---Complaint-Diagnostic-Analysis---Capstone-Project
+This README provides an overview of the Automobile Insurance Complaint Analysis and Diagnostic Report project, outlining its components and objectives. For further details and access to project materials, please refer to the repository.
 
 # Overview
 
@@ -18,4 +19,4 @@ The primary objective of this project is to deliver a comprehensive complaint di
 
 
 
-This README provides an overview of the Automobile Insurance Complaint Analysis and Diagnostic Report project, outlining its components and objectives. For further details and access to project materials, please refer to the repository.
+
